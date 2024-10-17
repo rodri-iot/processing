@@ -7,7 +7,7 @@ intall extension:
 - Jupyter
 
 Create file .gitignore
-Create a envioremnt .venv
-
+Create a envioremnt .venv whith command python -m venv .venv
 
 ## Installing
+pip install ipykernel pandas seaborn nbformat scikit-learn
